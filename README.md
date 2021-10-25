@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hoangthainguyen4121
 - 👀 I’m working at FPT Software
-- 🌱 I’m currently learning C#
 
 - 📫 Email me: hoangthainguyen4121@gmail.com
 
